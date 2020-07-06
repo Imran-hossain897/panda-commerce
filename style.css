@@ -1,0 +1,62 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.button{
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+    margin: 100px;
+}
+.one, .two, .three{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.one{
+    background-color: orange;
+}
+.two{
+    background-color: orchid;
+}
+.three{
+    background-color: blue;
+}
+.categories h4{
+    color: white;
+}
+.categories img{
+    width: 100px
+}
+#shoees{
+    width: 50%;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container img{
+    width: 100%;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
